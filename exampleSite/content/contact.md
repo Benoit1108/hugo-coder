@@ -1,6 +1,6 @@
 +++
 slug = "contact"
-title = "Contact"
+title = "Contactez moi"
 
 +++
 Retrouvez moi sur:
