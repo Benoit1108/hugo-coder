@@ -1,5 +1,5 @@
 +++
-slug = "A propos "
+slug = "about"
 title = "About Hugo"
 
 +++
