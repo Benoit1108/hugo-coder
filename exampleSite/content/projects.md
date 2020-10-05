@@ -3,6 +3,10 @@ slug = "projects"
 title = "Projects"
 
 +++
-Nothing to see here... Move along!
+Site web du groupe pour la veille technologique
 
-[https://meghna-veille.netlify.app/fr/](https://meghna-veille.netlify.app/fr/ "https://meghna-veille.netlify.app/fr/")
+Site web de Benoît Bruneau [https://meghna-veille.netlify.app/fr/](https://meghna-veille.netlify.app/fr/ "https://meghna-veille.netlify.app/fr/")
+
+Site web de William Robin
+
+Site web de Killian Sourdin
