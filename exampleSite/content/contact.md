@@ -1,5 +1,5 @@
 +++
-slug = "contactez moi"
+slug = "contact"
 title = "Contact"
 
 +++
